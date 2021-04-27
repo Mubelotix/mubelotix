@@ -13,11 +13,6 @@ I made several tools for emails in Rust.
 * [SMTP library](https://github.com/Mubelotix/smtp-server)
 * [DKIM library](https://github.com/Mubelotix/dkim)
 
-They are all serving a common goal: achieving a production-ready, blazing-fast email server framework in Rust.\
-There will also be a ready to be deployed email server binary project that would work out of the box.\
-\
-There is still plenty of work to do, and I encourage you to [contact me](mailto:mubelotix@gmail.com) if you want to be part of the project.
-
 #### Reactions to my Github comments stats
 
 [![Source Karma badge for @Mubelotix](https://sourcekarma-og.vercel.app/api/Mubelotix/github)](https://sourcekarma.vercel.app/Mubelotix)
