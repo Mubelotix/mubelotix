@@ -1,9 +1,7 @@
-### Higher beings, these words are for you alone
+## Higher beings, these words are for you alone
 
-Among the entire web, you have come to my Github profile.\
-It would be a shame if you left before reading this to the end.\
-\
-I have been a Rustacean ([Rust](https://www.rust-lang.org/) developer) for almost two years.\
+I'm a 18 years old french Rustacean.\
+I have been using [Rust](https://www.rust-lang.org/) for two years.\
 I am particularly interested in automation (bots and servers), and I am doing some reverse engineering.
 
 ### Opinions
