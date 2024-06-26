@@ -1,4 +1,8 @@
-- 21 yo french CS student  
-- Rustacean since 2018  
-- Researcher on p2p networks  
-- Cypherpunk and direct democracy advocate  
+- [Pirate 🏴‍☠️](https://partipirate.org/)
+- [Rustacean OG 🦀](https://www.rust-lang.org/)
+- [French 🇫🇷](https://fr.wikipedia.org/wiki/Amboise)
+- [P2P researcher](https://github.com/Mubelotix/admarus)
+- [Fediverse enthousiast](https://join-lemmy.org/)
+- [Cypherpunk](https://www.activism.net/cypherpunk/manifesto.html)
+- [Bitcoiner](https://bitcoin.org)
+- [Direct democracy advocate](https://en.wikipedia.org/wiki/Direct_democracy)
