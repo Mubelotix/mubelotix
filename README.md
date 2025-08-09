@@ -1,3 +1,8 @@
+Currently building:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mubelotix&repo=simrepo&theme=calm_pink)](https://github.com/mubelotix/simrepo)
+
+<!--
 - [Pirate 🏴‍☠️](https://partipirate.org/)
 - [Rustacean 🦀](https://www.rust-lang.org/)
 - [Bitcoiner 🪙](https://bitcoin.org)
@@ -8,3 +13,4 @@
 - [Fediverse enthousiast](https://join-lemmy.org/)
 - [Cypherpunk](https://www.activism.net/cypherpunk/manifesto.html)
 - [Direct democracy advocate](https://en.wikipedia.org/wiki/Direct_democracy)
+-->
