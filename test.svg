@@ -13,7 +13,7 @@
           display: flex;
           width: calc(100% * 5); /* number of images */
           height: 100%;
-          animation: slide 10s linear infinite;
+          animation: slide 100s linear infinite;
         }
 
         .carousel-track img {
@@ -43,3 +43,4 @@
     </div>
   </foreignObject>
 </svg>
+
